@@ -11,11 +11,19 @@
       <title>Cats</title>
       <link>https://ppyyqq.github.io/animals/cats/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://ppyyqq.github.io/animals/cats/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://ppyyqq.github.io/animals/cats/</guid><media:content url="https://ppyyqq.github.io/animals/cats/IMG_6546_hu1747350632292792226.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://ppyyqq.github.io/animals/cats/IMG_6546_hu1747350632292792226.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
     <item>
-      <title>Dogs</title>
-      <link>https://ppyyqq.github.io/animals/dogs/</link>
+      <title>Birds</title>
+      <link>https://ppyyqq.github.io/animals/birds/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://ppyyqq.github.io/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://ppyyqq.github.io/animals/birds/</guid><media:content url="https://ppyyqq.github.io/animals/birds/DSC_3035_hu15854424531245811141.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://ppyyqq.github.io/animals/birds/DSC_3035_hu15854424531245811141.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
   </channel>
 </rss>
